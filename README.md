@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="assets/profile.jpg" width="160" height="160" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">👋 Hey There, I'm Aarzu!</h1>
 
 <h3 align="center">
-  ⚡ Computer Engineering Student | Turning Curiosity Into Code, Ideas Into Projects
+    Computer Engineering Student | Turning Curiosity Into Code, Ideas Into Projects
 </h3>
 
 ---
@@ -55,5 +51,5 @@ Feel free to reach out!
 </p>
 
 <p align="center">
-  <b>Always curious. Always learning. Always open to new connections. 🚀</b>
+  <b>Always curious. Always learning. Always open to new connections.</b>
 </p>
